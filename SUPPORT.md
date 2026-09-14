@@ -11,7 +11,7 @@ Soul Buddy is developed by [Norvan](https://github.com/norvancc). For help, [ope
 
 ## Get connected
 
-1. Download the [Mac release](https://github.com/norvancc/soul-buddy/releases/download/v1.8.6/Soul-Buddy-macOS-1.8.6-universal.zip), unzip it, and move Soul Buddy to Applications.
+1. Download the [Mac release](https://github.com/norvancc/soul-buddy/releases/download/v1.8.7/Soul-Buddy-macOS-1.8.7-universal.zip), unzip it, and move Soul Buddy to Applications.
 2. Open Soul Buddy on the Mac and follow its integration setup.
 3. Open Soul Buddy on the phone and allow Local Network access when requested.
 4. On the Mac, open Devices → Add device, enter the phone's six-digit code, and connect. The first-run setup can also take you directly to pairing.
@@ -35,3 +35,7 @@ If agent activity does not appear, check Integrations on the Mac and complete th
 Include the app versions, Mac and iOS versions, and the steps that reproduce the issue. A screenshot of the affected screen is useful. GitHub issues are public: omit passwords, pairing codes, credentials, private code, and chat content.
 
 [Privacy policy](PRIVACY.md)
+
+## Create a theme with your agent
+
+Mac 1.8.7 includes `soul-buddy-theme` alongside the companion Skill. Set up your agent in Integrations, then start a new Codex or Claude Code session and ask it to create a Soul Buddy theme from your materials. Existing managed integrations get the Skill on app startup. If setup is incomplete, choose Finish setup or Repair. Theme generation uses Python and Dart; the Skill guides the agent through the required tools and validates the resulting package. Import the `.companiontheme` from Themes on your Mac, preview it, then choose Use this theme to send it to your phone.

@@ -11,7 +11,7 @@ Soul Buddy is developed by [Norvan](https://github.com/norvancc). For help, [ope
 
 ## Get connected
 
-1. Download the [Mac release](https://github.com/norvancc/soul-buddy/releases/latest), unzip it, and move Soul Buddy to Applications.
+1. Download the [Mac release](https://github.com/norvancc/soul-buddy/releases/download/v1.8.6/Soul-Buddy-macOS-1.8.6-universal.zip), unzip it, and move Soul Buddy to Applications.
 2. Open Soul Buddy on the Mac and follow its integration setup.
 3. Open Soul Buddy on the phone and allow Local Network access when requested.
 4. On the Mac, open Devices → Add device, enter the phone's six-digit code, and connect. The first-run setup can also take you directly to pairing.

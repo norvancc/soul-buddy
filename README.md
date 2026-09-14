@@ -5,7 +5,7 @@ A little presence. Right beside you.
 Soul Buddy turns the activity of your AI coding agents into animated companions on your iPhone or iPad. Each active session has its own character. Swipe between a shared world and a full-screen face, or tap a companion to return to its app on your Mac.
 
 - **Mac:** [Download the latest release](https://github.com/norvancc/soul-buddy/releases/latest) · macOS 14 or later · Apple Silicon and Intel.
-- **iPhone and iPad:** the free App Store release is being prepared.
+- **iPhone and iPad:** version 1.7.6 has been submitted for App Store review. It will be free when approved.
 - **Setup and support:** [Support](SUPPORT.md)
 - **Privacy:** [Privacy policy](PRIVACY.md)
 
